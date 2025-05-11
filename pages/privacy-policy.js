@@ -18,7 +18,7 @@ const PrivacyPolicyPage = () => {
       {query?.nav === "1" && <Navbar />}
 
       <div
-        className={`container relative flex flex-wrap items-center justify-between w-5/6 mx-auto lg:justify-between ${
+        className={`container relative flex flex-wrap items-center justify-between w-3/4 mx-auto lg:justify-between ${
           query?.nav !== "1" && "py-10"
         }`}
       >
