@@ -167,7 +167,7 @@ const GboxPage = () => {
     <>
       <Head>
         <title>Google Apps</title>
-        <meta name="description" content="Gbox for Mails" />
+        <meta name="description" content="Google Apps" />
         <link rel="icon" href=".././img/logo.png" />
       </Head>
 
